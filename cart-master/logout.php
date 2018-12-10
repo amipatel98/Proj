@@ -10,4 +10,5 @@ session_destroy();
 header("Location: ". $config_basedir);
 require("footer.php");
 echo 'Modify the logout.php file and after freezed this file';
+echo 'changes done at Github remote repository';
 ?>
